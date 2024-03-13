@@ -56,3 +56,13 @@ This reading club aims at following recent progress at the intersection of quant
   + Speaker: Zeyao Han
   + Notes: [notes.pdf](materials/QMC&sign-problem_20220604notes.pdf)
 + Recording pending
+
+### 2022-06-11
+
++ Topic: Quantum magic and its recent application to quantum many-body physics
+  + Speaker: Yuxuan Yan
+  + Notes: [notes.pdf](materials/Magic.pdf)
+  + Reference:
+    + [PRX Quantum 3, 020333 (2022) - Many-Body Quantum Magic](https://link.aps.org/doi/10.1103/PRXQuantum.3.020333)
+    + [[2204.02995] Magic hinders quantum certification (arxiv.org)](http://arxiv.org/abs/2204.02995)
++ [Recording.](https://www.bilibili.com/video/BV1RF411F75j?share_source=copy_web)
